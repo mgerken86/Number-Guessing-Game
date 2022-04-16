@@ -1,0 +1,35 @@
+body {
+    background-color: #ccfff5;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    font-size: 20px;
+  }
+  h1 {
+    color: #0052cc;
+    text-shadow: 1px 1px black;
+  }
+  
+  input, label {
+    font-weight: bold;
+    font-size: 25px;
+    color: #0052cc;
+  }
+  
+  #guessField {
+    width: 100px;
+  }
+  
+  .lastResult {
+     color: white;
+     font-size: 30px;
+     padding: 8px, 16px;
+    display: inline-block;
+    margin: -30px auto;
+  }
+  
+  .lowOrHi {
+    font-size: 25px;
+    font-weight: bold;
+  }
